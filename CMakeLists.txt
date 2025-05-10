@@ -7,7 +7,7 @@ ELSE()
 ENDIF()
 
 PROJECT(openEMS CXX C)
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 4.0)
 
 # default
 set(LIB_VERSION_MAJOR 0)
